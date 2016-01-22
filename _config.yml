@@ -1,0 +1,28 @@
+name: EcoRoadTrip
+favicon: null
+layout_spectrum: 0.8329758925829083
+typography_spectrum: 0.7349211864639074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.22545298375189304
+  lightness: 0.8273324039764702
+  saturation: 0.892138848779723
+  rhythmicContrast: 0.22486017853952944
+purpose: []
